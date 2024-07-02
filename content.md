@@ -40,9 +40,8 @@ author: Dan Carver
 
 **box plots**
 All modeled species are shown on the box plots. 
-I'll probably make the individuals plots a bit bigger. 
 
-Please let me know thoughts about the styling/legability of the figures 
+2024-07-02 : no direct change to this document 
 
 <a href="https://geospatialcentroid.github.io/Daucus/run20240603_boxPlotSummary.html" target="_blank">Box Plot Summary</a>
 
@@ -52,7 +51,7 @@ Please let me know thoughts about the styling/legability of the figures
 
 
 
-*Current version** : 2024-06-06
+*Current version** : 2024-07-02
 
 New input dataset 
 
