@@ -9,23 +9,28 @@ author: Dan Carver
 ## Current Content
 
 ## Summary of the run
-*Current version* : 2024-06-06
+*Current version* : 2024-07-02
 
 
 **Changes**
 
 - Run summary 
-  - include all the species 
+  - some text editing 
+  - updated spacing on figures 
+  - added two ERS gap maps 
   
 - individual model summary 
   - should be one for every species 
-  - 
+  - some text editing 
+  - updated spacing on figures 
 
 **changes to come** 
 
-- Adding an ERSex map to the Genus level summary 
-- Adding an ERSin map to the geneus level summary 
+
 - Include the non modeled species in the box plot elements 
+- PCA plot within the box plot summary document 
+
+
 
 
 
