@@ -6,56 +6,34 @@ author: Dan Carver
 
 # Daucus share site
 
-## Current Content
-
-## Summary of the run
-*Current version* : 2024-07-02
-
+*Current version* : 2024-07-25
 
 **Changes**
 
 - Run summary 
-  - some text editing 
-  - updated spacing on figures 
-  - added two ERS gap maps 
+  - text edits and formatting from google doc reviews 
   
 - individual model summary 
-  - should be one for every species 
-  - some text editing 
-  - updated spacing on figures 
-
-**changes to come** 
-
-
-- Include the non modeled species in the box plot elements 
-- PCA plot within the box plot summary document 
+  - text edits and formatting from google doc reviews 
+  - new table showing all the conservation scores and priority ranks 
+  
+- box plots 
+  - PCA plot within the box plot summary document 
 
 
-
-
+## Genus level summary 
 
 
 <a href="https://geospatialcentroid.github.io/Daucus/run20240603_Summary.html" target="_blank">Run Summary</a>
 
 
-**box plots**
-All modeled species are shown on the box plots. 
-
-2024-07-02 : no direct change to this document 
+## Box plots and PCA results for all taxa
 
 <a href="https://geospatialcentroid.github.io/Daucus/run20240603_boxPlotSummary.html" target="_blank">Box Plot Summary</a>
 
 
 
-## Model Summary Documents
-
-
-
-*Current version** : 2024-07-02
-
-New input dataset 
-
-> Contains model results, map visualizations, and conservation assessment statistics
+## Taxon Summary Documents
 
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_aureus_Summary.html" target="_blank">D. aureus</a>
 
