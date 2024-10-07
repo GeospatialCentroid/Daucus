@@ -45,6 +45,8 @@ author: Dan Carver
 
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_carota_subsp._annuus_Summary.html" target="_blank">D. carota_subsp._annuus</a>
 
+<a href="https://geospatialcentroid.github.io/Daucus/Daucus_carota_subsp._azoricus_Summary.html" target="_blank">D. carota  subsp._azoricus</a>
+
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_carota_subsp._cantabricus_Summary.html" target="_blank">D. carota_subsp._cantabricus</a>
 
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_carota_subsp._capillifolius_Summary.html" target="_blank">D. carota_subsp._capillifolius</a>
@@ -88,6 +90,10 @@ author: Dan Carver
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_edulis_Summary.html" target="_blank">D. edulis</a>
 
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_elegans_Summary.html" target="_blank">D. elegans</a>
+
+<a href="https://geospatialcentroid.github.io/Daucus/Daucus_glochidiatus_Summary.html" target="_blank">D. glochidiatus</a>
+
+<a href="https://geospatialcentroid.github.io/Daucus/Daucus_gracilis_Summary.html" target="_blank">D. gracilis</a>
 
 <a href="https://geospatialcentroid.github.io/Daucus/Daucus_guttatus_Summary.html" target="_blank">D. guttatus</a>
 
